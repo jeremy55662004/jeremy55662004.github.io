@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Jeremy and welcome to my Github page.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**Education:**  
+National Chung Hsing University (Bachelor) - Department of Applied Mathematics  
+National Central University (Master) - Computer Science
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Professional Tools:** HTML、JavaScript、Java、Python、C、PHP  
+**Professional Operating system:**  Linux、Windows、Mac OS
 
+**Introduction:** I'm work for a nas company "QSAN" and responsible for data service like CIFS, AFP, FTP, Webdav, NFS and domain security.
 
-[jekyll-organization]: https://github.com/jekyll
+            
